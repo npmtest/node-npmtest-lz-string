@@ -1,22 +1,22 @@
 <svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="302" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 11:37:10 +0000   174347 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 11:37:10 +0000      479 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 11:37:10 +0000      625 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 11:37:10 +0000      289 bytes  bin/bin.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 11:37:10 +0000      193 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 11:37:10 +0000     8233 bytes  libs/base64-string.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 11:37:10 +0000    15870 bytes  libs/lz-string.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 11:37:10 +0000     4719 bytes  libs/lz-string.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 11:37:10 +0000     2351 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 11:37:10 +0000     5350 bytes  reference/lz-string-1.0.2.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 11:37:10 +0000     1356 bytes  tests/SpecRunner.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 11:37:10 +0000     1061 bytes  tests/lib/jasmine-1.3.1/MIT.LICENSE</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 11:37:10 +0000    20765 bytes  tests/lib/jasmine-1.3.1/jasmine-html.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 11:37:10 +0000     6537 bytes  tests/lib/jasmine-1.3.1/jasmine.css</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 11:37:10 +0000    70892 bytes  tests/lib/jasmine-1.3.1/jasmine.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 11:37:10 +0000    35006 bytes  tests/lz-string-spec.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 11:37:10 +0000      621 bytes  typings/lz-string.d.ts</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 11:38:06 +0000   174347 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 11:38:06 +0000      479 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 11:38:06 +0000      625 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 11:38:06 +0000      289 bytes  bin/bin.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 11:38:06 +0000      193 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 11:38:06 +0000     8233 bytes  libs/base64-string.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 11:38:06 +0000    15870 bytes  libs/lz-string.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 11:38:06 +0000     4719 bytes  libs/lz-string.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 11:38:06 +0000     2351 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 11:38:06 +0000     5350 bytes  reference/lz-string-1.0.2.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 11:38:06 +0000     1356 bytes  tests/SpecRunner.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 11:38:06 +0000     1061 bytes  tests/lib/jasmine-1.3.1/MIT.LICENSE</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 11:38:06 +0000    20765 bytes  tests/lib/jasmine-1.3.1/jasmine-html.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 11:38:06 +0000     6537 bytes  tests/lib/jasmine-1.3.1/jasmine.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 11:38:06 +0000    70892 bytes  tests/lib/jasmine-1.3.1/jasmine.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 11:38:06 +0000    35006 bytes  tests/lz-string-spec.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 11:38:06 +0000      621 bytes  typings/lz-string.d.ts</tspan>
 </text>
 </svg>
